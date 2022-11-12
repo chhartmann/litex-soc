@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 tasks:
   - name: setup
     init: source setup.sh
 
 image: chhartmann/gitpod_litex_tang_primer
+=======
+image: gitpod/workspace-base
+>>>>>>> c59e593f7738d606fd337d5fddc137297489ac56
