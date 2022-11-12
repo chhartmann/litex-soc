@@ -1,5 +1,1 @@
-tasks:
-  - name: setup
-    init: source setup.sh
-
 image: gitpod/workspace-base

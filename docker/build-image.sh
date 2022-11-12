@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo docker build -f Dockerfile -t chhartmann/gitpod_litex_tang_primer .
+sudo docker build -f Dockerfile -t chhartmann/litex_tang_primer .
 

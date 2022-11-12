@@ -6,6 +6,5 @@ The board used is https://tang.sipeed.com/en/hardware-overview/lichee-tang/
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/chhartmann/litex-soc)
 
 #TODOs
-* build linux image
 * setup github action
 * build zephyr

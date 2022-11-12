@@ -26,3 +26,4 @@ RUN rm *.tar.gz
 
 # for simulation
 RUN apt-get update && apt-get install -y libevent-dev libjson-c-dev verilator
+WORKDIR /root
