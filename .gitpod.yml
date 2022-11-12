@@ -1,8 +1,5 @@
 tasks:
   - name: setup
-    init: |
-      TD/install_td.sh
-      source setup.sh
+    init: source setup.sh
 
-image:
-  file: .gitpod.Dockerfile
+image: chhartmann/gitpod_litex_tang_primer
