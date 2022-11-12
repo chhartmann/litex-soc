@@ -1,0 +1,8 @@
+tasks:
+  - name: setup
+    init: |
+      TD/install_td.sh
+      source setup.sh
+
+image:
+  file: .gitpod.Dockerfile
