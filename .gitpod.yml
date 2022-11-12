@@ -1,5 +1,1 @@
-tasks:
-  - name: setup
-    init: source setup.sh
-      
-image: chhartmann/gitpod_litex_tang_primer
+image: gitpod/base
