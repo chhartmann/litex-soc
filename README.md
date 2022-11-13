@@ -13,7 +13,6 @@ The docker container is in a private repository, because it contains the Tang Dy
 You can use the dockerfile and create your own container.
 
 # TODOs
-* optimize build (currently generation is executed twice)
 * describe how to download and flash
 * describe how to use simulation and add script (like in https://github.com/enjoy-digital/litex/wiki/SoC-Simulator)
 * build zephyr
