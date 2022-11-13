@@ -1,3 +1,8 @@
 docker/tang-dynasty-ide
 build/*
-build_sw/*
+
+app/*/*.d
+app/*/*.o
+app/*/*.map
+app/*/*.bin
+app/*/*.elf

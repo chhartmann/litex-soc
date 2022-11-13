@@ -19,7 +19,6 @@ You can use the dockerfile and create your own container.
 # TODOs
 * describe how to download and flash
 * build zephyr
-* setup github action
 
 # other related links
 * https://github.com/Lichee-Pi/Tang_FPGA_Examples
