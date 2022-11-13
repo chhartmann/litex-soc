@@ -1,1 +1,3 @@
 docker/tang-dynasty-ide
+build/*
+build_sw/*
