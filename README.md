@@ -17,8 +17,11 @@ The docker container is in a private repository, because it contains the Tang Dy
 You can use the dockerfile and create your own container.
 
 # TODOs
+* try support of sdcard
 * describe how to download and flash
 * build zephyr
+* build own fpga function
+* build riscv extension
 
 # other related links
 * https://github.com/Lichee-Pi/Tang_FPGA_Examples

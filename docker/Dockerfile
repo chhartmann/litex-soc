@@ -1,6 +1,6 @@
 FROM ubuntu:22.04
 
-RUN apt-get update && apt-get install -y unzip wget python3 python3-pip git ninja-build libsm6
+RUN apt-get update && apt-get install -y unzip wget python3 python3-pip git ninja-build libsm6 nano
 
 # sipeed toolchain
 ARG TD_NAME=TD_5.0.3_28716_NL
